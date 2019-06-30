@@ -16,4 +16,10 @@
 ## DEX
 + https://github.com/bisq-network/bisq
 + https://github.com/etherex/etherex
++ https://github.com/0xProject/0x-launch-kit
++ https://github.com/Loopring/loopr
 + https://github.com/eostoken/ET-exchange/tree/master/etbexchange
++ https://github.com/helinwang/dex
++ https://github.com/ltfschoen/dex
++ https://github.com/amisolution/index
+
