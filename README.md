@@ -1,5 +1,6 @@
 # awesome-dapps
 
+## Games
 + [cryptokitties](https://github.com/cryptocopycats/awesome-cryptokitties)
 + FOMO3D
   + https://github.com/reedhong/fomo3d_clone
@@ -11,3 +12,7 @@
 + [Andoromeda games](https://github.com/Andoromeda-Foundation)
 + [cryptomeetup](https://github.com/crypto-meetup-dev)
 + https://github.com/NervosBeijingCommunity/first-forever-simplified/tree/bigtree
+
+## DEX
++ https://github.com/etherex/etherex
++ https://github.com/eostoken/ET-exchange/tree/master/etbexchange
