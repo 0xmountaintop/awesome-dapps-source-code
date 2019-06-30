@@ -1,4 +1,4 @@
-# awesome-dapps
+# awesome-dapps-souce-code
 
 ## Games
 + [cryptokitties](https://github.com/cryptocopycats/awesome-cryptokitties)
