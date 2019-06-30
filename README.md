@@ -14,5 +14,6 @@
 + https://github.com/NervosBeijingCommunity/first-forever-simplified/tree/bigtree
 
 ## DEX
++ https://github.com/bisq-network/bisq
 + https://github.com/etherex/etherex
 + https://github.com/eostoken/ET-exchange/tree/master/etbexchange
