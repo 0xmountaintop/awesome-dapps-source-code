@@ -23,5 +23,6 @@
 + https://github.com/eostoken/ET-exchange/tree/master/etbexchange
 + https://github.com/helinwang/dex
 + https://github.com/ltfschoen/dex
-### Another list, mainly protocols, instead of source code to launce a exchange directly
+### Another list
+mainly protocols, instead of starter kits to fire a dex straight away
 + https://github.com/amisolution/index
