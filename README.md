@@ -21,6 +21,7 @@
 + https://github.com/0xProject/0x-launch-kit
 + https://github.com/Loopring/loopr
 + https://github.com/eostoken/ET-exchange/tree/master/etbexchange
++ https://github.com/gnosis
 + https://github.com/helinwang/dex
 + https://github.com/ltfschoen/dex
 ### Misc
