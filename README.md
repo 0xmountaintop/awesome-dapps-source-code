@@ -6,6 +6,11 @@
   + https://github.com/reedhong/fomo3d_clone
   + https://github.com/gudqs7/fomo3d_truffle
   + https://github.com/reedhong/fomo3d_mine
+  + 源码&分析 https://github.com/alant/smartcontracts/tree/master/fomo3d
++ PoWH3D
+  + 源码&分析 https://github.com/Fabsqrt/BitTigerLab/tree/master/Blockchain/Classes/PoWH3D
++ ethroll 赌奇偶
+  + https://github.com/alant/smartcontracts/tree/master/etheroll
 + [虚拟币在线赌场 EdgelessCasino](https://github.com/EdgelessCasino/Smart-Contracts)
 + [Crypto-Sanguo](https://github.com/qinxiaowen/ququ_game)
 + [crypto-hero](https://github.com/cryptohero)
